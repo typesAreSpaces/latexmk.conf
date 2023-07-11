@@ -1,2 +1,2 @@
-$pdf_previewer = "open -a Skim";
+$pdf_previewer = "sioyek";
 @generated_exts = (@generated_exts, 'synctex.gz');
